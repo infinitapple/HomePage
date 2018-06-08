@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Mafia.data.unityweb",
+"asmCodeUrl": "Mafia.asm.code.unityweb",
+"asmMemoryUrl": "Mafia.asm.memory.unityweb",
+"asmFrameworkUrl": "Mafia.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

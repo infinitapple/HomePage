@@ -1,0 +1,6 @@
+/***** menu *****/
+.menu {padding:0;width:100%}
+.menu li {list-style: none;float:left;position:relative}
+.menu li a {font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;display:block;width:188px;font-size:21px;line-height:1.238em;padding:21px 0 24px 0;color:#262626;text-align:center;text-transform:uppercase;right -71px no-repeat;letter-spacing:-1px}
+.menu li a:hover,
+.menu li a.active {color:#fff;background-position:left top;background-repeat:repeat-x;background-color:#000}
